@@ -14,6 +14,7 @@ Explain what software engineering is and discuss its importance in the technolog
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 Milestones include:
+
 a.The development of programming languages (e.g., Fortran, C).
 The 1980s saw the rise of object-oriented programming (OOP), which revolutionized software development by introducing concepts such as classes, objects, inheritance, encapsulation, and polymorphism. Languages like C++ ,C, FOTRAN.
 
@@ -81,6 +82,8 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Prompt engineering helps avoid that by making your questions clear and specific,so the AI understands exactly what you need.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
   This i a vague prompt:Tell me about Dogs.
+  
   A more clear, specific, and concise :'Tell me about the history of domestic dogs.
   The improved prompt is more effective as i have made my prompt more effective, clear, specific, and concise.
